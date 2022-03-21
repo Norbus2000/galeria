@@ -1,6 +1,6 @@
 var kepek = document.querySelector('.aktualis');
 
-var kepTomb = ['kepek/_DSC7025.jpg', 'kepek/_DSC7365.jpg', 'kepek/_DSC7371_1.jpg', 'kepek/_DSC7444.jpg', 'kepek/_DSC7515.jpg'];
+var kepTomb = ['galeria/kepek/_DSC7025.jpg', 'galeria/kepek/_DSC7365.jpg', 'galeria/kepek/_DSC7371_1.jpg', 'galeria/kepek/_DSC7444.jpg', 'galeria/kepek/_DSC7515.jpg'];
 
 var i = 0;
 
