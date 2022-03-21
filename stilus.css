@@ -1,0 +1,38 @@
+body {
+    background: beige;
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    justify-content: center;
+}
+main {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+}
+.kepek {
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.kepek img {
+    width: 100px;
+}
+.gombok {
+    display: flex;
+    justify-content: space-between;
+}
+
+.kep{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.kep img{
+    width: 600px;
+}
